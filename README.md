@@ -2,7 +2,7 @@
 
 Step 1: Get the current DNS host name.
 
-Step 2: Add the host name to the config file in your .ssh folder.
+Step 2: Add the host name to the "config" file in your .ssh folder.
 
 Step 3: Open VS Code and click the green icon in the bottom left corner.
 
