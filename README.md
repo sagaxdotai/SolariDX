@@ -10,8 +10,10 @@ Step 4: Select "Connect to Host..." in the popup that opens.
 
 Step 5: Click on the host from your .ssh file. A new VS Code window should open.
 
-Step 6: Open a VS Code terminal (ctrl + `), and type
-```./Start_QCuda_[yourname]```
+Step 6: Open a VS Code terminal (````ctrl + ` ````), and type
+```
+./Start_QCuda_[yourname]
+```
 This will launch your docker instance and populate it with your code from GitHub.
 
 Step 7: Edit and run your code as needed. To run a file, type
@@ -21,8 +23,12 @@ nvq++ path/to/file/file_name.cpp
 ```
 
 Step 8: When you have finished your work, type
-```exit```
+```
+exit
+```
 
 Step 9: Now save you changes and close your instance using
-```./Save_QCuda_[yourname]```
+```
+./Save_QCuda_[yourname]
+```
 
