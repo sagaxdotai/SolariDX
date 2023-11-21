@@ -1,3 +1,5 @@
+# Steps for a Successful EC2 Work Session
+
 Step 1: Get the current DNS host name.
 
 Step 2: Add the host name to the config file in your .ssh folder.
@@ -23,6 +25,4 @@ Step 8: When you have finished your work, type
 
 Step 9: Now save you changes and close your instance using
 ```./Save_QCuda_[yourname]```
-
-Step 5: Run a file:
 
