@@ -10,7 +10,7 @@ Step 4: Select "Connect to Host..." in the popup that opens.
 
 Step 5: Click on the host from your .ssh file. A new VS Code window should open.
 
-Step 6: Open a VS Code terminal (````ctrl + ` ````), and type
+Step 6: Open a VS Code terminal (```ctrl + ~```), and type
 ```
 ./Start_QCuda_[yourname]
 ```
