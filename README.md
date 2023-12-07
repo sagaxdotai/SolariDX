@@ -22,20 +22,19 @@ cd [yourname]
 ```
 To open your files in VS Code, do the following:
 
-a. Click the Docker (whale) icon on the far left sidebar.
+1. Click the Docker (whale) icon in the far left sidebar.
 
-b. Locate the "CONTAINERS" dropdown at the top of the secondary left sidebar.
+2. Locate the "CONTAINERS" dropdown at the top of the secondary left sidebar.
 
-c. Click on the following dropdown arrows:
-"""
-"Individual Containers" -> "nvcr.io/nvidia/cuda-quantum:0.4.1" -> "Files" -> "home" -> "cudaq" -> [yourname]
-"""
+3. Click on the following dropdown arrows:
 
-d. Hover over the file you want to open and click on the page icon to open it.
+> "Individual Containers" -> "nvcr.io/nvidia/cuda-quantum:0.4.1" -> "Files" -> "home" -> "cudaq" -> [yourname]
 
-e. Edit the file and remember to save!
+4. Hover over the file you want to open and click on the page icon to open it.
 
-f. To run a python file, in the terminal type:
+5. Edit the file and remember to save!
+
+6. To run a python file, in the terminal type:
 ```
 python [filename].py
 ```
