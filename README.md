@@ -49,6 +49,4 @@ Step 9: Now save you changes and close your instance using
 ./save_QCuda_[yourname]
 ```
 
-Step 10: Click the icon in the bottom left corner.
-
-Step 11: Select "Close Remote Connection" in the popup that opens.
+Step 10: Click the icon in the bottom left corner and select "Close Remote Connection" in the popup that opens.
