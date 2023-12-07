@@ -39,7 +39,7 @@ To open your files in VS Code, do the following:
 python [filename].py
 ```
 
-Step 8: When you have finished your work, type
+Step 8: When you have finished your work, in the terminal type
 ```
 exit
 ```
