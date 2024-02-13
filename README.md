@@ -18,7 +18,7 @@ This will launch your docker instance and populate it with your code from GitHub
 
 Step 7: Edit and run your code as needed. To navigate to your directory, type ```cd [yourname]```. To list the contents of your directory, type ```ls```. To run a file, type
 ```
-nvq++ path/to/file/file_name.cpp
+nvq++ path/to/file/filename.cpp
 ./a.out
 ```
 
